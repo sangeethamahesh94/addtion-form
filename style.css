@@ -1,0 +1,18 @@
+*{
+margin: 0;
+padding: 0;
+}
+form{
+width: 50%;
+background-color: blue;
+padding: 20px;
+border-radius: 5px;
+box-shadow: 10px 10px 5px 0px rgba(189,34,184,0.75);
+}
+button{
+background-color: black;
+border: none;border-radius: 4px;
+padding: 10px;
+margin-top: 20px;
+}
+
